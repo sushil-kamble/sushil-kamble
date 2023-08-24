@@ -9,9 +9,8 @@
 <a href="https://www.hackerearth.com/@sushil_kamble" target="_black">
 <img alt="Hackerearth" src="https://img.shields.io/badge/HackerEarth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white" /></a>
 
-<p>Welcome to my GitHub, Hope you are having a wonderful day!</p>
-<p>I'm Sushil Kamble, a passionate self-taught FullStack web developer from India.</p>
-
+## 🇮🇳 I am a passionate self-taught FullStack Web developer from India 🇮🇳
+Welcome to my GitHub, Hope you are having a wonderful day!
 - 🔭 I’m currently brushing up my data structures and algorithm skills.
 - 👯 I’m looking to collaborate on React/Vue Project
 
@@ -35,6 +34,7 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
