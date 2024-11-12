@@ -1,5 +1,3 @@
-# Sushil Kamble
-
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, I'm Sushil!</h2>
 <a href="https://sushilkamble.vercel.app/" target="_black"><img alt="Protofio" src="https://img.shields.io/badge/My Portfolio-3A84FF?style=for-the-badge&logoColor=white" /></a> 
 <a href="mailto:iamsushil303@gmail.com" target="_black"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
