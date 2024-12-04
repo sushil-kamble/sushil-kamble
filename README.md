@@ -5,7 +5,7 @@
 <a href="https://twitter.com/SushilK28005811/" target="_black"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1A91DA?style=for-the-badge&logo=twitter&logoColor=white" /></a> 
 <a href="https://sushil-kamble.medium.com/" target="_black"><img alt="Medium" src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a> 
 
-## I am a passionate self-taught FullStack Web developer from India 🇮🇳
+## I am a passionate FullStack Web developer from India 🇮🇳
 Welcome to my GitHub, Hope you are having a wonderful day!
 - 🔭 I’m currently brushing up my data structures and algorithm skills.
 - 👯 I’m looking to collaborate on React/Vue Project
