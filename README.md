@@ -45,9 +45,9 @@ Welcome to my GitHub, Hope you are having a wonderful day!
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
 
-![Sushil's GitHub stats](https://github-readme-stats-two-mu-37.vercel.app/api?username=sushil-kamble&show_icons=true&hide=contribs&theme=dracula)
+![Sushil's GitHub stats](https://github-readme-stats-git-master-sushilkambles-projects.vercel.app/api?username=sushil-kamble&show_icons=true&hide=contribs&theme=dracula)
 
-[![Top Langs](https://github-readme-stats-two-mu-37.vercel.app/api/top-langs/?username=sushil-kamble&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-master-sushilkambles-projects.vercel.app/api/top-langs/?username=sushil-kamble&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
