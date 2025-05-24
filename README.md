@@ -44,11 +44,3 @@ Welcome to my GitHub, Hope you are having a wonderful day!
   <img alt="Webstorm" src="https://img.shields.io/badge/Webstorm-000000?style=for-the-badge&logo=webstorm&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
-
-![Sushil's GitHub stats](https://github-readme-stats-git-master-sushilkambles-projects.vercel.app/api?username=sushil-kamble&show_icons=true&hide=contribs&theme=dracula)
-
-[![Top Langs](https://github-readme-stats-git-master-sushilkambles-projects.vercel.app/api/top-langs/?username=sushil-kamble&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-> <sub>NOTE: Top languages does not indicate my skill level or something like that, it's a GitHub metric.</sub>
