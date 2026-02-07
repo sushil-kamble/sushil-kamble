@@ -22,14 +22,14 @@ const sushil = {
   location: "India 🇮🇳",
   role: "Full-Stack Software Engineer",
   passions: ["clean code", "great UX", "shipping fast"],
-  philosophy: "Craft software that feels inevitable — elegant, intuitive, right.",
+  philosophy: "Craft software that feels inevitable - elegant, intuitive, right.",
   currentlyExploring: ["AI-assisted dev workflows", "Svelte 5", "system design"],
 };
 ```
 
 <br/>
 
-I'm a full-stack developer who treats code like a craft, not a chore. I obsess over the details — the naming, the abstractions, the edge cases — because the best software is the kind where someone reads the source and thinks *"of course, how else would you do it?"*
+I'm a full-stack developer who treats code like a craft, not a chore. I obsess over the details - the naming, the abstractions, the edge cases - because the best software is the kind where someone reads the source and thinks *"of course, how else would you do it?"*
 
 I believe in shipping early, iterating relentlessly, and building tools that make people's lives easier. When I'm not writing code, I'm probably mentoring teammates, tinkering with AI-powered workflows, or diving into a rabbit hole about some obscure web API.
 
@@ -108,7 +108,7 @@ I write about what I learn. I open-source what I build. And I'm always looking f
 ## `> git log --oneline --graph`
 
 ```
-* 🔭  Exploring AI-assisted development workflows — planning, code, QA
+* 🔭  Exploring AI-assisted development workflows - planning, code, QA
 * 🧠  Deep-diving into system design and scalable architectures
 * ✍️  Writing about full-stack patterns and authentication flows
 * 🤝  Always open to collaborating on ambitious web projects
