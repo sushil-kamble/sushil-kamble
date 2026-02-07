@@ -1,19 +1,14 @@
-<div align="center">
-
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=1000&pause=100&color=569CD6&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=620&height=80&lines=%3E+Hello+World!+I'm+Sushil.;%3E+I+build+things+for+the+web." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=1000&pause=100&color=569CD6&center=false&vCenter=true&multiline=true&repeat=false&random=false&width=620&height=80&lines=%3E+Hello+World!+I'm+Sushil.;%3E+I+build+things+for+the+web." alt="Typing SVG" /></a>
 
-<br/>
 
 <a href="https://sushilkamble.com"><img src="https://img.shields.io/badge/sushilkamble.com-0078D4?style=flat-square&logo=google-chrome&logoColor=white" /></a>
 <a href="mailto:iamsushil303@gmail.com"><img src="https://img.shields.io/badge/iamsushil303@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/sushil-kamble"><img src="https://img.shields.io/badge/sushil--kamble-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="https://x.com/SushilK28005811"><img src="https://img.shields.io/badge/@SushilK28005811-000000?style=flat-square&logo=x&logoColor=white" /></a>
 <a href="https://sushil-kamble.medium.com/"><img src="https://img.shields.io/badge/sushil--kamble-000000?style=flat-square&logo=medium&logoColor=white" /></a>
-
 </div>
 
-<br/>
 
 ```js
 // sushil.config.js
@@ -34,9 +29,7 @@ I'm a full-stack developer who treats code like a craft, not a chore. I obsess o
 I believe in shipping early, iterating relentlessly, and building tools that make people's lives easier. When I'm not writing code, I'm probably mentoring teammates, tinkering with AI-powered workflows, or diving into a rabbit hole about some obscure web API.
 
 I write about what I learn. I open-source what I build. And I'm always looking for the next thing that excites me enough to stay up too late working on it.
-
 <br/>
-
 ## `> cat tech_stack.md`
 
 <details>
@@ -102,8 +95,6 @@ I write about what I learn. I open-source what I build. And I'm always looking f
 <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
 </details>
-
-<br/>
 
 ## `> git log --oneline --graph`
 
