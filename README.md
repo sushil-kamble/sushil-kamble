@@ -107,8 +107,5 @@ I write about what I learn. I open-source what I build. And I'm always looking f
 ```
 ---
 
-<div align="center">
-<i>"The people who are crazy enough to think they can change the world are the ones who do."</i>
-<br/><br/>
+<i>"The people who are crazy enough to think they can change the world are the ones who do."</i> <br/>
 <img src="https://komarev.com/ghpvc/?username=sushil-kamble&style=flat-square&color=569cd6&label=profile+views" />
-</div>
