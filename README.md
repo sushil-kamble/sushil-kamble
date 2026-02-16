@@ -5,10 +5,13 @@
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=1200&pause=120&color=61AFEF&vCenter=true&multiline=true&repeat=false&width=900&height=80&lines=%3E+Hello+World%2C+I%27m+Sushil.;%3E+I+build+calm%2C+fast%2C+reliable+web+products."
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=1200&pause=120&color=61AFEF&vCenter=true&multiline=true&repeat=false&width=900&height=80&lines=%3E+I+turn+ambition+into+shipped+software.;%3E+Clean+UX.+Strong+systems.+Fast+iterations"
     alt="Typing SVG"
   />
 </a>
+
+
+<br />
 
 <p>
   <a href="https://sushilkamble.com">
