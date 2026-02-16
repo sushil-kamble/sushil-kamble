@@ -35,10 +35,10 @@
 
 ## `whoami`
 
-I’m a **frontend-heavy full-stack engineer (4+ years)** who cares about one thing: **shipping software that feels inevitable** — clear code, crisp UX, and systems that don’t wake you up at 3AM.
+I'm a **frontend-heavy full-stack engineer (4+ years)** who cares about one thing: **shipping software that feels inevitable** - clear code, crisp UX, and systems that don't wake you up at 3AM.
 
-I build with **React / Next.js + Node / FastAPI**, and I’m deep into **AI-assisted engineering workflows**: planning → coding → testing → refactoring → shipping.  
-If something can be automated cleanly, I’ll automate it — **without turning the codebase into a science project.**
+I build with **React / Next.js + Node / FastAPI**, and I'm deep into **AI-assisted engineering workflows**: planning → coding → testing → refactoring → shipping.  
+If something can be automated cleanly, I'll automate it - **without turning the codebase into a science project.**
 
 ```js
 // sushil.config.js
@@ -46,7 +46,7 @@ const sushil = {
   location: "India 🇮🇳",
   role: "AI-native • Frontend-heavy Full-Stack Engineer",
   focus: ["product UX", "clean architecture", "shipping velocity"],
-  philosophy: "Craft software that feels inevitable — elegant, intuitive, right.",
+  philosophy: "Craft software that feels inevitable - elegant, intuitive, right.",
   currentlyExploring: ["agentic dev workflows", "Svelte 5", "system design"],
 };
 ```
