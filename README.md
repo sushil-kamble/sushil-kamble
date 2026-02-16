@@ -1,36 +1,56 @@
+<!-- Banner (optional) -->
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0b1220,100:1f6feb&text=Sushil%20Kamble&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=AI-native%20frontend-heavy%20full-stack%20engineer%20•%20shipping%20clean%20products%20fast&descAlignY=62"
+/>
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=1000&pause=100&color=569CD6&center=false&vCenter=true&multiline=true&repeat=false&random=false&width=620&height=80&lines=%3E+Hello+World!+I'm+Sushil.;%3E+I+build+things+for+the+web." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=1200&pause=120&color=61AFEF&vCenter=true&multiline=true&repeat=false&width=900&height=80&lines=%3E+Hello+World%2C+I%27m+Sushil.;%3E+I+build+calm%2C+fast%2C+reliable+web+products."
+    alt="Typing SVG"
+  />
+</a>
 
+<p>
+  <a href="https://sushilkamble.com">
+    <img src="https://img.shields.io/badge/sushilkamble.com-1f6feb?style=flat-square&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="mailto:iamsushil303@gmail.com">
+    <img src="https://img.shields.io/badge/iamsushil303@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sushil-kamble">
+    <img src="https://img.shields.io/badge/sushil--kamble-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/SushilK28005811">
+    <img src="https://img.shields.io/badge/@SushilK28005811-000000?style=flat-square&logo=x&logoColor=white" />
+  </a>
+  <a href="https://sushil-kamble.medium.com/">
+    <img src="https://img.shields.io/badge/sushil--kamble-12100E?style=flat-square&logo=medium&logoColor=white" />
+  </a>
+</p>
 
-<a href="https://sushilkamble.com"><img src="https://img.shields.io/badge/sushilkamble.com-0078D4?style=flat-square&logo=google-chrome&logoColor=white" /></a>
-<a href="mailto:iamsushil303@gmail.com"><img src="https://img.shields.io/badge/iamsushil303@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/sushil-kamble"><img src="https://img.shields.io/badge/sushil--kamble-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://x.com/SushilK28005811"><img src="https://img.shields.io/badge/@SushilK28005811-000000?style=flat-square&logo=x&logoColor=white" /></a>
-<a href="https://sushil-kamble.medium.com/"><img src="https://img.shields.io/badge/sushil--kamble-000000?style=flat-square&logo=medium&logoColor=white" /></a>
-</div>
+---
 
+## `whoami`
+
+I’m a **frontend-heavy full-stack engineer (4+ years)** who cares about one thing: **shipping software that feels inevitable** — clear code, crisp UX, and systems that don’t wake you up at 3AM.
+
+I build with **React / Next.js + Node / FastAPI**, and I’m deep into **AI-assisted engineering workflows**: planning → coding → testing → refactoring → shipping.  
+If something can be automated cleanly, I’ll automate it — **without turning the codebase into a science project.**
 
 ```js
 // sushil.config.js
-
 const sushil = {
   location: "India 🇮🇳",
-  role: "Full-Stack Software Engineer",
-  passions: ["clean code", "great UX", "shipping fast"],
-  philosophy: "Craft software that feels inevitable - elegant, intuitive, right.",
-  currentlyExploring: ["AI-assisted dev workflows", "Svelte 5", "system design"],
+  role: "AI-native • Frontend-heavy Full-Stack Engineer",
+  focus: ["product UX", "clean architecture", "shipping velocity"],
+  philosophy: "Craft software that feels inevitable — elegant, intuitive, right.",
+  currentlyExploring: ["agentic dev workflows", "Svelte 5", "system design"],
 };
 ```
 
 <br/>
 
-I'm a full-stack developer who treats code like a craft, not a chore. I obsess over the details - the naming, the abstractions, the edge cases - because the best software is the kind where someone reads the source and thinks *"of course, how else would you do it?"*
-
-I believe in shipping early, iterating relentlessly, and building tools that make people's lives easier. When I'm not writing code, I'm probably mentoring teammates, tinkering with AI-powered workflows, or diving into a rabbit hole about some obscure web API.
-
-I write about what I learn. I open-source what I build. And I'm always looking for the next thing that excites me enough to stay up too late working on it.
-<br/>
-## `> cat tech_stack.md`
+## `> cat SKILLS.md`
 
 <details>
 <summary><b>Languages</b></summary>
